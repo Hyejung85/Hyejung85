@@ -1,8 +1,12 @@
-### 📢Contact
+### :blush: About me
+
+
+### :speech_balloon: Contact
 <img src="https://img.shields.io/badge/wori85@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
+### :seedling: Project
 
-### 💪Skills
+### :muscle: Skills
    #### Language
    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=SQL&logoColor=white"/>
    #### Framework
